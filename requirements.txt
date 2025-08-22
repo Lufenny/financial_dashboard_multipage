@@ -3,5 +3,5 @@ numpy
 pandas
 matplotlib
 nltk
-requests
 wordcloud
+requests
